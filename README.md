@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi there! I'm Mohammadsadegh
 
+A passionate software developer who loves continuous learning and building useful tools to solve real-world problems.
 
-**mohaamadsadegh/mohaamadsadegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Skills & Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Languages: php | JavaScript | HTML & CSS 
+- 💻 cms: wordpress  
+- 🧱 Frameworks: tailwind | bootstrap     
+- 🗄 Databases: SQLite | PostgreSQL | MongoDB  
+- ⚙️ Tools: Git & GitHub | VSCode | phpstorm
 
+---
+
+### 📂 Highlighted Projects:
+
+🔹 [Project-1](https://github.com/mohaamadsadegh/project-1-name) — A brief description of what this project does and its purpose.
+
+🔹 [Project-2](https://github.com/mohaamadsadegh/project-2-name) — A project to practice [specific topic] using [technology].
+
+🔹 [Project-3](https://github.com/mohaamadsadegh/project-3-name) — A simple project to learn [e.g. Django].
+
+(Replace Project-1/2/3 with your actual project links and short descriptions)
+
+---
+
+### 📈 My GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohaamadsadegh&show_icons=true&theme=gruvbox)
+
+---
+
+### 📬 Get in Touch:
+
+- Email: [youremail@example.com]    
+- Personal Website (if any): [http://comma-gp.ir/]
+
+---
+
+> Always open to learning and contributing to open-source projects 🚀
